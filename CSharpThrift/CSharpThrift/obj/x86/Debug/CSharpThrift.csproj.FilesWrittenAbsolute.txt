@@ -1,0 +1,1 @@
+/Users/shangj/Documents/workspace/CSharpThrift/CSharpThrift/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
